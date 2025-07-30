@@ -16,7 +16,7 @@
 2. เปิด “Allow install from unknown sources” ในการตั้งค่าของ Android
 3. แตะไฟล์ APK แล้วกดติดตั้ง
 
-[ดาวน์โหลดแอปสำหรับ Android (APK)](https://github.com/P-cy/Release-Scoliosis-Detection-App/releases/download/v1.0.0/ScoliosisDetection.apk)
+[ดาวน์โหลดแอปสำหรับ Android (APK)](https://github.com/P-cy/Release-Scoliosis-Detection-App/releases/download/v1.0.0/Scoliosis Detection App v1.0.0.apk)
 
 
 **Feedback หรือแจ้งปัญหา:** [kw44151@kw.ac.th]
